@@ -10,7 +10,7 @@ No config files. No daemons. One binary.
 
 ## Requirements
 
-- Intel CPU — **12th gen (Alder Lake) or newer** recommended; older generations may not expose the sysfs interface
+- Intel CPU, **12th gen (Alder Lake) or newer** recommended. Older generations may not expose the sysfs interface
 - Linux kernel with the Intel ISA / Innovation Engine driver (mainline since ~5.18)
 - Root access to *write* the limit (`sudo`)
 
